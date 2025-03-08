@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-IMDB-Movie-Reviews-using-LSTM
+# IMDB Movie Review Sentiment Analysis using LSTM
 This project aims to build a Sentiment Analysis Model for movie reviews using the IMDB dataset. The model classifies reviews as either positive or negative using Natural Language Processing (NLP) and Deep Learning (LSTM) techniques. The dataset is sourced from Kaggle (lakshmi25npathi/imdb-dataset-of-50k-movie-reviews), and the project follows a structured approach, including data preprocessing, model training, evaluation, and prediction.
 
 # 🚀 Project Workflow
